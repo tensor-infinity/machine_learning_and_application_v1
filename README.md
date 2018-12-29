@@ -21,14 +21,11 @@
 对大部分核心算法的实现细节进行了介绍，并配有示例程序与知名开源库源代码分析，包括OpenCV，libsvm，liblinear，Caffe，这对需要使用、实现机器学习算法的读者至关重要
 ### 4、重要算法的实际应用均有讲解
 核心算法的实际应用都有介绍，对深度学习技术在计算机视觉、语音识别、自然语言处理、计算机图形学等领域的应用情况有详细而深入的介绍。这些内容能帮助读者掌握算法的实际应用方法、建模的思路。
-![重要算法](https://mmbiz.qpic.cn/mmbiz_png/75DkJnThAClafcTUt1wGra6EJD9zGqXJoicjCAQXlJw4MnTiaBh5ZibdeObc4vx7xgrJp6xtff4IfoD9Lzicxjb2qw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1,1274025419&fm=27&gp=0.jpg "重要算法")
 
 ## 购买指南
 
-
 [目前本书在京东上打折包邮预售：](https://item.jd.com/12504554.html)
 
-![重要算法](https://mmbiz.qpic.cn/mmbiz_png/75DkJnThAClafcTUt1wGra6EJD9zGqXJclW5PM5MMVUiaibsV5iciahEAwGZjnA2OBhGGQEjSeL9FkPd0tia9D18TRA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "重要算法")
 
 ## 完整目录
 
